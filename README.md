@@ -1,5 +1,5 @@
 # Introduction
-N/A
+In progress.
 
 # Usage
 N/A
@@ -8,7 +8,4 @@ N/A
 N/A
 
 # Requirements & Dependencies
-N/A
-
-# Previews
-![preview image](https://via.placeholder.com/350x240)
+PHP 7+
